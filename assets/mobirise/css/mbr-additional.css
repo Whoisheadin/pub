@@ -481,20 +481,9 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #000000;
 }
-#msg-box8-c .mbr-section-title,
-#msg-box8-c p {
-  color: #fff;
-}
-#msg-box8-c .mbr-section-title {
-  color: #000000;
-}
 #header3-k .mbr-section-title,
 #header3-k .mbr-section-subtitle {
   text-align: center;
-}
-#slider2-f .mbr-section-title,
-#slider2-f .mbr-section-lead {
-  color: #fff;
 }
 #header3-j .mbr-section-title,
 #header3-j .mbr-section-subtitle {
@@ -507,19 +496,9 @@ h6,
 #slider2-g H2 {
   text-align: center;
 }
-#msg-box4-i H3 {
-  text-align: left;
-}
-#msg-box4-i P {
-  text-align: left;
-}
 #header3-m .mbr-section-title,
 #header3-m .mbr-section-subtitle {
   text-align: center;
-}
-#slider2-h .mbr-section-title,
-#slider2-h .mbr-section-lead {
-  color: #fff;
 }
 #msg-box8-2 .mbr-section-title,
 #msg-box8-2 p {
@@ -542,4 +521,73 @@ h6,
 #social-buttons4-e .mbr-section-title,
 #social-buttons4-e .btn-social {
   color: #fff;
+}
+
+#menu-r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-r .navbar-caption {
+  color: #ffffff;
+}
+#menu-r .navbar-toggler {
+  color: #000000;
+}
+#menu-r .link,
+#menu-r .dropdown-item {
+  color: #000000;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-r .link {
+  font-size: 0.9rem;
+}
+#menu-r .dropdown-item,
+#menu-r .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-r .link:hover,
+#menu-r .dropdown-item:hover,
+#menu-r .link:focus,
+#menu-r .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-r .link[aria-expanded="true"],
+#menu-r .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-r .nav-dropdown-sm .link:focus,
+#menu-r .nav-dropdown-sm .link:hover,
+#menu-r .nav-dropdown-sm .dropdown-item:focus,
+#menu-r .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-r .navbar,
+#menu-r .nav-dropdown-sm,
+#menu-r .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-r .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-r .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-r .bg-color.transparent.opened .link:hover,
+#menu-r .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-r .link[aria-expanded="true"],
+#menu-r .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-r.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-r .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-r .close-icon::before,
+#menu-r .close-icon::after {
+  background-color: #000000;
 }
