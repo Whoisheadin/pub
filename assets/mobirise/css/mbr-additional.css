@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 
 
 
@@ -590,4 +591,12 @@ h6,
 #menu-r .close-icon::before,
 #menu-r .close-icon::after {
   background-color: #000000;
+}
+
+#header1-17 .mbr-section-lead {
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+#header1-17 .mbr-section-title {
+  text-align: center;
 }
