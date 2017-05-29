@@ -91,3 +91,43 @@
 #msg-box3-11 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#dropdown-menu-16 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-16 .nav .link,
+#dropdown-menu-16 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-16 .navbar,
+#dropdown-menu-16 .dropdown-menu {
+  background: #ecfffb;
+}
+#dropdown-menu-16 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-16 .dropdown-menu a:hover,
+#dropdown-menu-16 .dropdown-menu a:focus {
+  background: #d8fff7;
+}
+#dropdown-menu-16 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-17 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-17 .nav .link,
+#dropdown-menu-17 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-17 .navbar,
+#dropdown-menu-17 .dropdown-menu {
+  background: #ecfffb;
+}
+#dropdown-menu-17 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-17 .dropdown-menu a:hover,
+#dropdown-menu-17 .dropdown-menu a:focus {
+  background: #d8fff7;
+}
+#dropdown-menu-17 .navbar-toggler {
+  color: #000000;
+}
