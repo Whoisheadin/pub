@@ -417,7 +417,7 @@
           },
           "title1": "ISTANBUL EKSPRES",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"ISTANBUL EKSPRES\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">MEER BEKIJKEN</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"ISTANBUL EKSPRES\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MEER BEKIJKEN</a>",
           "media2": {
             "image": {
               "active": true,
