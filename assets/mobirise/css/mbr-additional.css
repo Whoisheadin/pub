@@ -34,11 +34,19 @@
 #msg-box4-t .mbr-article P {
   color: #595959;
 }
+#msg-box3-1o .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #252525;
+}
+#msg-box3-1o .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #features1-v P {
   text-align: left;
 }
 #msg-box3-w .mbr-header .mbr-header__text {
   text-align: center;
+  color: #252525;
 }
 #msg-box3-w .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -93,6 +101,7 @@
 }
 #msg-box3-11 .mbr-header .mbr-header__text {
   text-align: center;
+  color: #252525;
 }
 #msg-box3-11 .mbr-header .mbr-header__subtext {
   text-align: center;
