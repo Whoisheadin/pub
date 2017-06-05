@@ -1726,19 +1726,9 @@ html {
   font-size: 250px; /* ~ image.height */
   text-decoration:none;
 }
-
-@media (max-width: 768px) {
-  .image-size{
-    width: 100% !important;
-  }
-  .content-size{
-    width: 100%;
-  }
-}.engine {
+.engine {
 	position: absolute;
 	text-indent: -2400px;
 	text-align: center;
 	padding: 0;
-	top: 0;
-	left: -2400px;
 }
